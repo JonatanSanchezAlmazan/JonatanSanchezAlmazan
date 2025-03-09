@@ -13,7 +13,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30" align="center"> **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=html,react, angular,css,js,git,github,vite,expressjs,nodejs,mongodb,npm,postman,vscode,vercel,netlify,scss,styledcomponents,figma,&perline=12)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,react,angular,css,js,git,github,vite,express,nodejs,mongodb,npm,postman,vscode,vercel,netlify,scss,styledcomponents,figma&perline=12)](#)
+
 <br>
 <br>
 
