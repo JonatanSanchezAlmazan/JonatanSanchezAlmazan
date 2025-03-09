@@ -19,7 +19,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="center"> Estadisticas GitHub :octocat:
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsalvatierrasanchez&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=20&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375px" alt="danielsalvatierrasanchez"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatansanchezalmazan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=20&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375px" alt="danielsalvatierrasanchez"/>
 </p>
 <br>
 <br>
