@@ -1,4 +1,4 @@
-# ¡Hola, soy [Jonatan Sanchez]! 👨‍💻
+# ¡Hola, soy Jonatan Sanchez! 👨‍💻
 
 Soy un apasionado del mundo IT en el que he conseguido importantes logros, todo gracias a mi CONSTANCIA, DEDICACIÓN, PASIÓN...
 
