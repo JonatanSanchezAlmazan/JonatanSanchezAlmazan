@@ -11,7 +11,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30" align="center"> **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css3,scss,js,react,angular,vite,express,nodejs,mongodb,npm,git,github,postman,insomnia,vscode,vercel,netlify,styledcomponents,figma&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular,vite,expressjs,nodejs,mongodb,npm,git,github,postman,vscode,vercel,netlify,styledcomponents,figma&perline=5)](#)
 
 <br>
 <br>
