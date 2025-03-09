@@ -9,14 +9,6 @@
 </div>
 <br>
 
-### 🖥️ **Wakatime Stats**
-
-[![wakatime](https://wakatime.com/badge/user/b88bb920-40e6-4f06-8859-11e07f011583.svg)](https://wakatime.com/@b88bb920-40e6-4f06-8859-11e07f011583)
-
-[![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=blue-green)](https://github.com/nikumu/github-readme-stats)
-
-<br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30" align="center"> **Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=html,react,angular,css,js,git,github,vite,express,nodejs,mongodb,npm,postman,vscode,vercel,netlify,scss,styledcomponents,figma&perline=12)](#)
